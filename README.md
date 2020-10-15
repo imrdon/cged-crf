@@ -1,9 +1,9 @@
 # Chinese Grammar Error Diagnosis Based on Conditional Random Field
 
 ![Language Python](https://img.shields.io/badge/Language-Python-red)
-[![License MIT](https://img.shields.io/github/license/imrdon/cged-crf.svg?label=License&color=blue)](https://github.com/imrdon/cged-crf/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/imrdon/cged-crf.svg?style=social&label=Star&maxAge=10)](https://github.com/imdron/cged-crf/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/imrdon/cged-crf?style=social&label=Fork&maxAge=10)](https://github.com/imrdon/cged-crf/network/members/)
+[![License MIT](https://img.shields.io/github/license/imrdong/cged-crf.svg?label=License&color=blue)](https://github.com/imrdong/cged-crf/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/imrdong/cged-crf.svg?style=social&label=Star&maxAge=10)](https://github.com/imrdong/cged-crf/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/imrdong/cged-crf?style=social&label=Fork&maxAge=10)](https://github.com/imrdong/cged-crf/network/members/)
 
 # Background
 
